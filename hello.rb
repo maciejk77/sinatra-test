@@ -1,5 +1,7 @@
 require 'sinatra'
 
 get '/' do
-  'hello! World, there is more test typing!'
+  "<div>
+   <img src='http://bit.ly/1eze8aE'
+  </div>"
 end
